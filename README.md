@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Binance Futures Trading Bot 🤖
 
 A professional, well-structured Python trading bot for Binance Futures Testnet (USDT-M) with comprehensive logging, error handling, and a clean CLI interface.
@@ -375,3 +376,6 @@ For questions or issues, please contact via the application email.
 ---
 
 **⚠️ Disclaimer**: This bot is designed for Binance Futures Testnet only. Always practice with testnet funds before trading with real money. Cryptocurrency trading carries risk.
+=======
+# project-of-application
+>>>>>>> f750b5257ed45e8e3db4d9580cb1e5b900593df6
